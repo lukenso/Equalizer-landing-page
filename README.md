@@ -11,7 +11,7 @@ This challenge will be a perfect test of your HTML & CSS skills. If you're start
 - Flexbox
 - Responsive Design
 
-## Designed for ony three devices 
+## Designed for only three devices 
 - Mobile (375px)
 - Tablet (768px)
 - Desktop(1440px)
